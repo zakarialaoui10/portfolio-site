@@ -70,7 +70,7 @@ export const Banner = () => {
                 <br></br> (Oscar Wilde)
               </p>
               <a
-                href='https://github.com/olgayavnel'
+                href='https://github.com/platypusonmars'
                 rel='noreferrer'
                 target='_blank'
                 tabIndex={0}
